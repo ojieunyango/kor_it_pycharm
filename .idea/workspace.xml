@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56badd56-d801-4281-ad5f-1b8d8e780f49" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Python_study.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/ch01/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/ch01/collection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/ch01/list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/ch01/print.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/ch01/tuple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/ch01/type.py" afterDir="false" />
-    </list>
+    <list default="true" id="56badd56-d801-4281-ad5f-1b8d8e780f49" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
