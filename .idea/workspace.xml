@@ -5,13 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="56badd56-d801-4281-ad5f-1b8d8e780f49" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/ch01/dictionary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/ch01/set.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/ch02/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/ch02/for.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/ch02/if.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/ch03/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/ch03/function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ch03/function02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ch03/function03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ch03/function04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ch03/input.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ch05/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ch05/class01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ch05/class02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ch05/class03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ch06/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ch06/module01_03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ch06/module01_04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ch06/module01_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ch06/module01_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ch07/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ch07/exception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,11 +49,24 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.class01.executor": "Run",
+    "Python.class02.executor": "Run",
+    "Python.class03.executor": "Run",
     "Python.collection.executor": "Run",
     "Python.dictionary.executor": "Run",
+    "Python.exception.executor": "Run",
     "Python.for.executor": "Run",
+    "Python.function.executor": "Run",
+    "Python.function02.executor": "Run",
+    "Python.function03.executor": "Run",
+    "Python.function04.executor": "Run",
     "Python.if.executor": "Run",
+    "Python.input.executor": "Run",
     "Python.list.executor": "Run",
+    "Python.module01_03.executor": "Run",
+    "Python.module01_04.executor": "Run",
+    "Python.module01_1.executor": "Run",
+    "Python.module01_2.executor": "Run",
     "Python.print.executor": "Run",
     "Python.set.executor": "Run",
     "Python.tuple.executor": "Run",
@@ -52,9 +74,15 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/jieun/pycharm/Python_study/src/main/ch06",
     "settings.editor.selected.configurable": "advanced.settings"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\jieun\pycharm\Python_study\src\main\ch06" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="print" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_study" />
